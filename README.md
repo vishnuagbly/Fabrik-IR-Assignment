@@ -2,6 +2,8 @@
 
 IR assignment 7
 
+This is the assignment for IIITM IR course, from Vishnu Agarwal, 2019BCS-072
+
 example input output:
 
 ```
